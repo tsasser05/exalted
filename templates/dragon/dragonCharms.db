@@ -1,0 +1,334 @@
+#Code	Name					Ability		Min	Ess	Prereq
+1	Language-Learning Ritual		linguistics	2	1	0
+2	Thousand Tongues Meditation		linguistics	3	2	1
+3	Poisoned Tongue Technique		linguistics	3	3	2
+4	Voice of Mastery			linguistics	4	3	3
+5	With One Mind				linguistics	5	2	4	7
+6	Wind-Carried Words Technique		linguistics	3	2	0
+7	Voices on the Wind			linguistics	4	3	6
+
+8	Elemental Concentration Trance		lore		2	1	0
+9	Elemental Empowerment Meditation	lore		4	3	8
+10	Element Succor Method			lore		5	3	9
+11	Dragon Vortex Attack			lore		5	4	9	13
+12	Element Bolt Attack			lore		2	2	0
+13	Elemental Burst Technique		lore		3	2	12
+
+14	Spirit-Detecting Mirror Technique	occult		2	1	0
+15	Spirit Grounding Shout			occult		3	3	14
+16	Spirit Shredding Attack			occult		5	4	15
+17	Spirit-Chaining Strike			occult		4	3	15
+18	Harmonious Wind-Luring Song		occult		2	1	14
+19	Terrestrial Circle Sorcery		occult		3	3	0
+
+20	Feeling the Air Technique		stealth		2	2	0
+21	Soundless Action Prana			stealth		3	3	20
+22	Zone of Silence Stance			stealth		4	3	21	26
+23	Dragon Shroud Technique			stealth		5	4	21	
+24	Distracting Breeze Meditation		stealth		2	1	0
+25	Trackless Passage Style			stealth		3	2	24
+26	Wind-Walking Technique			stealth		3	3	25
+
+27	Seeking Throw Technique			thrown		2	1	0
+28	Loyal Weapon				thrown		3	2	27
+29	Persistent Hornet Attack		thrown		3	2	28
+30	Invisibly Hidden Chakram Method		thrown		4	3	29
+31	Wind Weapons				thrown		5	3	29	33
+32	Whirlwind Shield Form			thrown		3	2	0
+33	Vengeful Gust Counterattack		thrown		4	2	32
+34	Wind Armor Technique			thrown		5	3	33
+
+35	Precision Observation Method		awareness	2	1	0
+36	Sense Riding Technique			awareness	3	2	35
+37	Sense Destroying Method			awareness	4	3	36
+38	Essence Disruption Attack		awareness	5	4	37
+39	All-Encompassing Earth Sense		awareness	2	2	35
+40	Feeling the Dragon's Bones		awareness	3	2	39
+41	Entombed Mind Technique			awareness	4	2	40
+
+42	Shaping Hand Style			craft		2	1	0
+43	Stone-Carving Fingers Form		craft		3	2	42
+44	Perfect Climbing Attitude		craft		3	2	43
+45	Flaw-Finding Examination		craft		3	1	0
+46	Charm of Lesser Unmaking		craft		5	3	45
+47	Charm of Greater Unmaking		craft		5	4	46
+
+48	Ox-Body Technique			endurance	1	1	0
+49	Unsleeping Earth Meditation		endurance	2	2	0
+50	Untiring Earth Meditation		endurance	3	2	49
+51	Unflagging Vengeance Meditation		endurance	4	4	50
+52	Uneating Earth Meditation		endurance	3	2	49
+53	Unbreathing Earth Meditation		endurance	4	2	52
+54	Unfeeling Earth Meditation		endurance	3	2	53
+
+55	Five Dragon Fortitude			martial_arts	3	2	0
+56	Five Dragon Blocking Technique		martial_arts	3	2	55
+57	Five Dragon Claw			martial_arts	3	1	0
+58	Five Dragon Force Blow			martial_arts	3	2	57
+59	Five Dragon Form			martial_arts	4	3	56	58
+60	Five Dragon Fist			martial_arts	5	4	59
+61	Five Dragon Invulnerability		martial_arts	5	3	59
+62	Five Dragon Wrath			martial_arts	5	4	60	61
+
+63	Strength of Stone Technique		resistance	2	1	0
+64	Mountain Toppline Method		resistance	2	2	63
+65	Impervious Skin of Stone Meditation	resistance	2	2	63
+66	(Element) Protection Form		resistance	3	2	65
+67	Chaos Warding Prana			resistance	3	3	66
+68	Defense from Anathema Method		resistance	5	4	67
+
+69	Effortlessly Rising Flame		athletics	2	1	0
+70	Fiery Prowess				athletics	2	1	69
+71	Falling Star Maneuver			athletics	2	1	69
+72	Phoenix Mate's Lament			athletics	5	2	71
+73	Bellows Pumping Stride			athletics	3	2	71
+74	Swift Legion Technique			athletics	4	2	70	73
+75	Incense Smoke Ladder			athletics	4	2	73
+76	Dancing Ember Stride			athletics	5	3	75
+
+77	Threshold Warding Stance		dodge		2	1	0
+78	Hopping Firecracker Evasion		dodge		3	2	77
+79	Virtuous Negation Defense		dodge		4	2	78
+80	Flickering Candle Meditation		dodge		2	1	0
+81	Smoke Obscuring Effect			dodge		4	2	80
+82	Safety Among Enemies			dodge		4	2	80
+83	Arrow Consuming Flame Defense		dodge		5	3	82
+84	Smoldering Karma Strike			dodge		5	3	79	81	82
+
+85	Dragon Graced Weapon			melee		2	2	0
+86	Ghost-Fire Blade			melee		3	2	85
+87	Refining the Inner Blade		melee		4	3	85
+88	Stoking Bonfire Style			melee		2	1	0
+89	Portentous Comet Deflecting Mode	melee		5	3	88
+90	Deadly Wildfire Legion			melee		4	2	88
+91	Threshing Floor Technique		melee		5	2	88
+92	Ringing Anvil Onslaught			melee		5	3	91
+
+93	Phantom Fire Warrior Horde				presence	2	2	0
+94	Blazing Courageous Swordsmen Inspiration		presence	3	2	93
+95	Warlord's Convocation					presence	5	3	94	98
+96	Glowing Coal Radiance					presence	3	1	0
+97	Unbearable Taunt Technique				presence	2	1	96
+98	Aura of Invulnerability					presence	4	2	96
+99	Moth to the Candle					presence	4	2	97
+
+100	Loquacious Courtier Technique		socialize	2	1	0
+101	Sweeten the Tap Method			socialize	4	1	100
+102	Wary Yellow Dog Attitude		socialize	3	2	101
+103	Seizing-the-Tongue Technique		socialize	3	2	100
+104	Brother-Against-Brother Insinuation	socialize	3	2	103
+105	Warm-Faced Seduction Style		socialize	3	2	100
+106	Friend To All Nations Attitude		socialize	3	2	105
+107	Smoothing Over the Past Technique	socialize	5	3	105
+
+108	Drowning Embrace			brawl		2	2	0
+109	Riptide Method				brawl		4	2	108
+110	Pounding Surf Style			brawl		2	1	108
+111	Fist-Spinning Maelstrom			brawl		4	2	110
+112	Blade-Deflecting Palm			brawl		3	1	0
+113	Become the Hammer			brawl		3	2	112
+114	Flow Past Defenses			brawl		5	2	109	110	113
+
+115	Benevolent Master's Blessing		bureaucracy	2	1	0
+116	Confluence of Savant Thought		bureaucracy	3	2	115
+117	Geese Flying South Administration	bureaucracy	4	2	116
+118	Bestow the Saffron Mantle		bureaucracy	4	3	117
+119	Thrashing Carp Serenade			bureaucracy	3	1	115
+120	Thoughtful Gift Technique		bureaucracy	4	2	119
+121	Testing the Waters			bureaucracy	5	2	119
+
+122	Indisputable Physical Analysis Technique		investigation	2	1	0
+123	Revelation of Association Hunch				investigation	4	2	122
+124	Homeward Trail Discovery Method				investigation	5	3	123
+125	Scent-of-Crime Method					investigation	3	1	0
+126	Falsehold Unearthing Attitude				investigation	3	2	125
+127	Bloodhound's Nose Technique				investigation	4	2	122	125
+
+128	Observer Awareness Method		larceny		2	1	0
+129	Trackless Walk Style			larceny		3	2	128
+130	Ears of the Snowy Owl			larceny		4	2	128
+131	Window-in-the-Door Technique		larceny		5	2	130
+132	Resetting Tumblers Technique		larceny		3	2	0
+133	Artful Sprinting Theft			larceny		3	2	132
+134	Space-Crossing Theft Technique		larceny		5	3	131	133
+
+135	Hurricane-Predicting Glance		sail		2	1	0
+136	Storm-Outrunning Technique		sail		3	2	135
+137	Fine Passage Negotiating Style		sail		4	2	135
+138	Sturdy Bulkhead Concentration		sail		4	3	137
+139	Pirate-Masquerading Method		sail		5	3	137
+
+140	Spring Follows Winter			archery		2	1	0
+141	Swallows Defend the Nest		archery		3	2	140
+142	Harvest of the Hunter			archery		3	2	140
+143	Life-Swelling Sap Strike		archery		5	3	142
+144	Dragonfly Finds Mate			archery		3	2	140
+145	Seven-Year Swarm Volley			archery		4	2	144
+146	Sparrow Dives at Hawk			archery		5	3	145
+
+147	Infection Banishing Prana		medicine	2	2	0
+148	Dread Infection Strike			medicine	3	2	147
+149	Disease-Banishing Technique		medicine	4	2	147
+150	Wound-Closing Touch			medicine	4	3	149
+151	Grievous Wound Alteration Energy	medicine	5	3	150
+152	Madness-Analyzing Stance		medicine	3	2	147
+153	Purity of Mind Method			medicine	4	3	150	152
+
+154	Memorable Performance Style		performance	2	1	0
+155	Talented Improvisation			performance	3	2	154
+156	Dance of Flashing Swords		performance	4	2	155
+157	Enchanting Performance			performance	4	2	154
+158	Protective Performance			performance	5	3	157
+
+159	Scattered Pearl Hoof Falls		ride		2	1	0
+160	Heaven-Gracing Leap			ride		3	2	159
+161	Cloud-Harnessing Method			ride		5	3	160
+162	Ebony Spur Technique			ride		3	2	159
+163	Charge of One Hundred Generals		ride		5	2	162
+164	Great Heart Companion			ride		3	2	159
+165	Dance of the Jade Bridle		ride		5	3	164
+
+166	Wild-Wandering Forester Charm		Survival	2	1	0
+167	Forgiveness-of-Nature Invoking Prana	Survival	2	2	166
+168	Quarry Revelation Technique		Survival	3	2	166
+169	Trail Concealing Measurement		Survival	3	2	168
+170	Ration-Enhancing Method			Survival	3	2	168
+171	Hostile Environment Preparation		Survival	4	2	166
+172	Shelter Creation Technique		Survival	5	3	171
+
+173	Air Dragon's Sight			martial_arts	2	1	0
+174	Wind Dragon Speed			martial_arts	2	2	173
+175	Breath-Seizing Technique		martial_arts	3	1	173
+176	Shrouding the Body and Mind		martial_arts	3	2	173
+177	Air Dragon Form				martial_arts	4	2	174	175	176
+178	Tornado Offense Technique		martial_arts	4	2	177
+179	Avenging Wind Strike			martial_arts	5	3	178
+180	Wrathful Winds Maneuver			martial_arts	5	3	179
+181	Cloud Treading Method			martial_arts	5	3	177
+182	Thunderclap Kata			martial_arts	5	3	181
+183	Lightning Strike Style			martial_arts	5	3	182
+184	Hurricane Combat Method			martial_arts	5	4	180	183
+
+185	Force of the Mountain			martial_arts	3	1	0
+186	Unmoving Mountain Stance		martial_arts	3	1	0
+187	Stone Dragon's Skin			martial_arts	4	2	0
+188	Earth Dragon Form			martial_arts	4	2	185	186	187
+189	Shattering Fist Strike			martial_arts	4	2	188
+190	Weapon-Breaking Defense Technique	martial_arts	3	3	189
+191	Stillness of Stone			martial_arts	5	3	188
+192	Avalanche Method			martial_arts	5	3	191
+193	Earthshaker Attack			martial_arts	5	3	188
+194	Hungry Earth Strike			martial_arts	5	3	193
+195	Ghost-Grounding Blow			martial_arts	5	3	190	192	194
+196	Perfection of Earth Body		martial_arts	5	5	195
+
+197	Flash-Fire Technique			martial_arts	3	1	0
+198	Flame-Flicker Stance			martial_arts	3	2	197
+199	Searing Fist Attack			martial_arts	3	2	0
+200	Perfect Blazing Blow			martial_arts	3	2	199
+201	Fire Dragon Form			martial_arts	4	2	198	200
+202	Fiery Hand Attack			martial_arts	5	3	201
+203	Breath of the Fire Dragon		martial_arts	5	3	202
+204	Essence-Igniting Nerve Strike		martial_arts	5	3	203
+205	Overwhelming Fire Majesty Strike	martial_arts	5	3	201
+206	Smoldering Wound Attack			martial_arts	5	3	205
+207	Consuming Might of the Fire Dragon	martial_arts	5	4	204	206
+
+208	Flowing Water Defense			martial_arts	2	1	0
+209	Rippling Water Strike			martial_arts	3	2	208
+210	Drowning-In-Blood Technique		martial_arts	3	2	209
+211	Shrugging Water Dragon Escape		martial_arts	3	2	209
+212	Water Dragon Form			martial_arts	4	3	210	211
+213	Theft-of-Essence Method			martial_arts	5	3	212
+214	Ghost-Restraining Whirlpool Stance	martial_arts	5	3	213
+215	Flow Reversal Strike			martial_arts	5	3	212
+216	Crashing Wave Style			martial_arts	5	3	215
+217	Bottomless Depths Defense		martial_arts	5	3	214	216
+218	Essense-Dousing Wave Attack		martial_arts	5	4	217
+219	Tsunami Force Shout			martial_arts	5	4	218
+
+220	Eyes of the Wood Dragon			martial_arts	2	2	0
+221	Mind-Over-Body Meditation		martial_arts	3	2	220
+222	Wood Dragon Vitality			martial_arts	3	2	221
+223	Soul-Marking Strike			martial_arts	4	3	222
+224	Wood Dragon Form			martial_arts	4	3	223
+225	Unbreakable Fascination Kata		martial_arts	4	3	224
+226	Enthralling Blow Attack			martial_arts	5	3	225
+227	Spirit-Wracking Method			martial_arts	5	3	224
+228	Spirit-Rending Technique		martial_arts	5	3	227
+229	Death-Pattern Sensing Attitude		martial_arts	5	3	224
+230	Wood Dragon Succor			martial_arts	5	3	229
+231	Soul Mastery				martial_arts	5	4	226	228	230
+
+232	Death of Obsidian Butterflies		occult		3	3	19
+233	Emerald Countermagic			occult		3	3	19
+234	Demon of The First Circle		occult		3	3	19
+235	Impenetrable Frost Barrier		occult		3	3	19
+236	Infallible Messenger			occult		3	3	19
+237	Invulnerable Skin of Bronze		occult		3	3	19
+238	Stormwind Rider				occult		3	3	19
+239	Summon Elemental			occult		3	3	19
+240	Wood Dragon's Claw			occult		3	3	19
+241	Lightning Spider			occult		3	3	19
+242	The Eye and the Mouth			occult		3	3	19
+243	Blood Lash				occult		3	3	19
+244	Cirrus Skiff				occult		3	3	19
+245	Curse of Slavish Humility		occult		3	3	19
+246	Flying Guillotine			occult		3	3	19
+247	Fugue of Truth				occult		3	3	19
+248	Assassin's Fatal Touch			occult		3	3	19
+249	Becoming the Wood Friend		occult		3	3	19
+250	Burning Eyes of the Offender		occult		3	3	19
+251	Calling the Stalwart Servitor		occult		3	3	19
+252	Coin of Distant Vision			occult		3	3	19
+253	Commanding Presence of Fire		occult		3	3	19
+254	Commanding the Beast			occult		3	3	19
+255	Corrupted Words				occult		3	3	19
+256	Curtain of Quartz			occult		3	3	19
+257	Dance of the Smoke Cobras		occult		3	3	19
+258	Disguise of the New Face		occult		3	3	19
+259	Dragon of Smoke / Serpent of Fire	occult		3	3	19
+260	Droning Sugestion			occult		3	3	19
+261	Empathic Wind				occult		3	3	19
+262	Eye of Alliance				occult		3	3	19
+263	Flight of Separation			occult		3	3	19
+264	Flight of the Brilliant Raptor		occult		3	3	19
+265	Floral Ferry				occult		3	3	19
+266	Food from the Aerial Table		occult		3	3	19
+267	Hound of the Five Winds			occult		3	3	19
+268	Impervious Sphere of Water		occult		3	3	19
+269	Incantation of the Effective Restoration	occult		3	3	19
+270	Internal Flame				occult		3	3	19
+271	Lesser Golem				occult		3	3	19
+272	Magician's Pleasant Place		occult		3	3	19
+273	Malediction of the Distorted Compass	occult		3	3	19
+274	Manifestation of Vigorous Design	occult		3	3	19
+275	Mirror of Bending Light			occult		3	3	19
+276	Mists of Eventide			occult		3	3	19
+277	Paralysing Contradiction		occult		3	3	19
+278	Personal Tempest			occult		3	3	19
+279	Plague of Bronze Snakes			occult		3	3	19
+280	Purifying Flames			occult		3	3	19
+281	Ravenous Fire				occult		3	3	19
+282	Ritual of Elemental Empowerment		occult		3	3	19
+283	River of Blood				occult		3	3	19
+284	Shadow Summons				occult		3	3	19
+285	Shadowy Simulacrums of Smoke		occult		3	3	19
+286	Shedding the Serpent's Skin		occult		3	3	19
+287	Silent Words of Dreams and Nightmares	occult		3	3	19
+288	Sleep of Stone Safety			occult		3	3	19
+289	Song of the Waves			occult		3	3	19
+290	Song of Vertigo				occult		3	3	19
+291	The Horse that Travels Earth and Water	occult		3	3	19
+292	The Parting of the Seas			occult		3	3	19
+293	The Sacred Tongue			occult		3	3	19
+294	Sworn Brothers' Oath			occult		3	3	19
+295	Calling the Wind's Kiss			occult		3	3	19
+296	Mast Shattering Spell			occult		3	3	19
+297	Swift Journey				occult		3	3	19
+298	Water's Ally				occult		3	3	19
+299	Water's Chilling Grasp			occult		3	3	19
+300	Peacock-Shadow Eyes			occult		3	3	19
+301	Whisper of the Grasses			occult		3	3	19
+302	Open the Spirit Door			occult		3	3	19
+303	Conjuring the Azure Chariot		occult		3	3	19

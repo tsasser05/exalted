@@ -1,2 +1,2 @@
 # exalted
-Exalted and Dragon Blooded character generator
+Exalted and Dragon Blooded *random* character generator
